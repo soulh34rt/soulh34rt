@@ -1,11 +1,11 @@
-<h1 align="center"> Musi Musi — ADA / Soulheart </h1>
+<img width="315" height="212" alt="image" src="https://github.com/user-attachments/assets/8612d18e-ae74-4d1a-9df9-482532cdf64f" /><h1 align="center"> Musi Musi — ADA / Soulheart </h1>
 
 <p align="center">
   <img src="./ADA.webp" alt="ADA" width="300"/>
 </p>
 
-<p align="center"> Text me:
-  https://t.me/Awr2fw</p> 
+<p align="center"> Personal Email:
+  ada@ratzarecool.xyz</p> 
 <p align="center">
   <strong>TI Management Engineering student</strong><br>
   Focused on <strong>Cybersecurity</strong> & <strong>Information Protection</strong><br>
